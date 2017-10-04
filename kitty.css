@@ -8,18 +8,21 @@
 	}
 body {
 	background-image:url(images/trip1.gif);
+	display: flex;
 }
 }		
 @media screen and (min-width: 680px) {
 body {
 	background-image:url(images/snowwhite.gif);
 	content:url(images/kitten-medium.png);
+	display: flex;
 }
 }
 @media screen and (min-width: 800px) {
 body {
 	background-image:url(images/trip1.gif) ;
 	content:url(images/kitten-large.png);
+	display: flex;
 }
 }
 .center-verticle {
