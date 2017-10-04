@@ -23,11 +23,11 @@ body {
 }
 }
 .center-verticle {
-	display: inline-block;
+	display:flex;
 	justify-content: center;
 	height: inherit;
 }
 .center-horizontal {
-	display: inline-block;
+	display: flex;
 	align-items: center;
 }
