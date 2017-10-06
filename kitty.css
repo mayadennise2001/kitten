@@ -14,6 +14,7 @@ body {
 body {
 	background-image:url(images/snowwhite.gif);
 }
+}
 @media screen and (min-width: 800px) {
 .cat {
 	content:url(images/kitten-large.png);
