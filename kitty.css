@@ -3,6 +3,7 @@
 .cat {
 	content:url(images/kitten-small.png);
 }
+@media screen and (max-width: 250px) {
 .kittyloaf {
 	content:url(images/kittyloaf.gif);
 }
