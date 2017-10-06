@@ -2,13 +2,12 @@
 @media screen and (min-width: 250px) {
 .cat {
 	content:url(images/kitten-small.png);
-	}
+}
 .kittyloaf {
 	content:url(images/kittyloaf.gif);
-	}
+}
 body {
 	background-image:url(images/trip1.gif);
-	display: block;
 }
 }		
 @media screen and (min-width: 680px) {
