@@ -1,9 +1,7 @@
 /* https://stackoverflow.com/questions/2182716/is-it-possible-to-set-the-equivalent-of-a-src-attribute-of-an-img-tag-in-css */
 @media screen and (min-width: 250px) {
-.small {
+.cat {
 	content:url(images/kitten-small.png);
-	width: 100vw;
-	
 	}
 .kittyloaf {
 	content:url(images/kittyloaf.gif);
@@ -13,14 +11,18 @@ body {
 }
 }		
 @media screen and (min-width: 680px) {
-body {
-	background-image:url(images/snowwhite.gif);
+.cat {
 	content:url(images/kitten-medium.png);
+	}
+	body {
+	background-image:url(images/snowwhite.gif);
 }
 @media screen and (min-width: 800px) {
+.cat {
+	content:url(images/kitten-large.png);
+	}
 body {
 	background-image:url(images/trip1.gif) ;
-	content:url(images/kitten-large.png);
 }
 }
 .center-vertical {
