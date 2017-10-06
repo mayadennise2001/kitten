@@ -1,7 +1,7 @@
 /* https://stackoverflow.com/questions/2182716/is-it-possible-to-set-the-equivalent-of-a-src-attribute-of-an-img-tag-in-css */
 @media screen and (min-width: 250px) {
 .cat {
-	content:url(images/kitten-large.png);
+	content:url(images/kitten-small.png);
 }
 .kittyloaf {
 	content:url(images/kittyloaf.gif);
